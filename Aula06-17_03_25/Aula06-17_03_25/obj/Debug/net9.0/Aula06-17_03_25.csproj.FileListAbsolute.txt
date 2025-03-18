@@ -1,0 +1,14 @@
+C:\Users\danilo.hyamamoto\source\repos\Aula06-17_03_25\Aula06-17_03_25\bin\Debug\net9.0\Aula06-17_03_25.exe
+C:\Users\danilo.hyamamoto\source\repos\Aula06-17_03_25\Aula06-17_03_25\bin\Debug\net9.0\Aula06-17_03_25.deps.json
+C:\Users\danilo.hyamamoto\source\repos\Aula06-17_03_25\Aula06-17_03_25\bin\Debug\net9.0\Aula06-17_03_25.runtimeconfig.json
+C:\Users\danilo.hyamamoto\source\repos\Aula06-17_03_25\Aula06-17_03_25\bin\Debug\net9.0\Aula06-17_03_25.dll
+C:\Users\danilo.hyamamoto\source\repos\Aula06-17_03_25\Aula06-17_03_25\bin\Debug\net9.0\Aula06-17_03_25.pdb
+C:\Users\danilo.hyamamoto\source\repos\Aula06-17_03_25\Aula06-17_03_25\obj\Debug\net9.0\Aula06-17_03_25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danilo.hyamamoto\source\repos\Aula06-17_03_25\Aula06-17_03_25\obj\Debug\net9.0\Aula06-17_03_25.AssemblyInfoInputs.cache
+C:\Users\danilo.hyamamoto\source\repos\Aula06-17_03_25\Aula06-17_03_25\obj\Debug\net9.0\Aula06-17_03_25.AssemblyInfo.cs
+C:\Users\danilo.hyamamoto\source\repos\Aula06-17_03_25\Aula06-17_03_25\obj\Debug\net9.0\Aula06-17_03_25.csproj.CoreCompileInputs.cache
+C:\Users\danilo.hyamamoto\source\repos\Aula06-17_03_25\Aula06-17_03_25\obj\Debug\net9.0\Aula06-17_03_25.dll
+C:\Users\danilo.hyamamoto\source\repos\Aula06-17_03_25\Aula06-17_03_25\obj\Debug\net9.0\refint\Aula06-17_03_25.dll
+C:\Users\danilo.hyamamoto\source\repos\Aula06-17_03_25\Aula06-17_03_25\obj\Debug\net9.0\Aula06-17_03_25.pdb
+C:\Users\danilo.hyamamoto\source\repos\Aula06-17_03_25\Aula06-17_03_25\obj\Debug\net9.0\Aula06-17_03_25.genruntimeconfig.cache
+C:\Users\danilo.hyamamoto\source\repos\Aula06-17_03_25\Aula06-17_03_25\obj\Debug\net9.0\ref\Aula06-17_03_25.dll
