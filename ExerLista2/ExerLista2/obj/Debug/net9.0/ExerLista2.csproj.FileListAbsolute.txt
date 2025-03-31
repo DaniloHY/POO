@@ -1,0 +1,14 @@
+C:\Users\nilo1\source\repos\ExerLista2\ExerLista2\bin\Debug\net9.0\ExerLista2.exe
+C:\Users\nilo1\source\repos\ExerLista2\ExerLista2\bin\Debug\net9.0\ExerLista2.deps.json
+C:\Users\nilo1\source\repos\ExerLista2\ExerLista2\bin\Debug\net9.0\ExerLista2.runtimeconfig.json
+C:\Users\nilo1\source\repos\ExerLista2\ExerLista2\bin\Debug\net9.0\ExerLista2.dll
+C:\Users\nilo1\source\repos\ExerLista2\ExerLista2\bin\Debug\net9.0\ExerLista2.pdb
+C:\Users\nilo1\source\repos\ExerLista2\ExerLista2\obj\Debug\net9.0\ExerLista2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilo1\source\repos\ExerLista2\ExerLista2\obj\Debug\net9.0\ExerLista2.AssemblyInfoInputs.cache
+C:\Users\nilo1\source\repos\ExerLista2\ExerLista2\obj\Debug\net9.0\ExerLista2.AssemblyInfo.cs
+C:\Users\nilo1\source\repos\ExerLista2\ExerLista2\obj\Debug\net9.0\ExerLista2.csproj.CoreCompileInputs.cache
+C:\Users\nilo1\source\repos\ExerLista2\ExerLista2\obj\Debug\net9.0\ExerLista2.dll
+C:\Users\nilo1\source\repos\ExerLista2\ExerLista2\obj\Debug\net9.0\refint\ExerLista2.dll
+C:\Users\nilo1\source\repos\ExerLista2\ExerLista2\obj\Debug\net9.0\ExerLista2.pdb
+C:\Users\nilo1\source\repos\ExerLista2\ExerLista2\obj\Debug\net9.0\ExerLista2.genruntimeconfig.cache
+C:\Users\nilo1\source\repos\ExerLista2\ExerLista2\obj\Debug\net9.0\ref\ExerLista2.dll
