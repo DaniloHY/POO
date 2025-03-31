@@ -1,0 +1,4 @@
+C:\Users\nilo1\source\repos\Exerprova\Exerprova\obj\Debug\net9.0\Exerprova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilo1\source\repos\Exerprova\Exerprova\obj\Debug\net9.0\Exerprova.AssemblyInfoInputs.cache
+C:\Users\nilo1\source\repos\Exerprova\Exerprova\obj\Debug\net9.0\Exerprova.AssemblyInfo.cs
+C:\Users\nilo1\source\repos\Exerprova\Exerprova\obj\Debug\net9.0\Exerprova.csproj.CoreCompileInputs.cache
