@@ -1,0 +1,83 @@
+Arquitetura em POO
+
+
+Kings Me!
+
+Enum - Defini tipos de valores como variaveis
+
+public Enum TipoCarta 
+{
+	Não, //0
+	Sim  //1 
+}
+
+public Enum Setor
+{
+	Plebeus
+	------
+	-----
+	-----	
+	-----
+	-----
+	Rei
+}
+
+
+
+Carta
+----------------------
+TipoCarta tipo;
+
+
+
+Jogador
+----------------------
+List<Cartas> cartas;	
+Lista<Personagem> personagens;
+
+
+
+Personagem
+----------------------	
+string nome;
+string imagem;
+
+
+
+Tabuleiro
+----------------------
+Dictionary<Setor, List<Personagem>> setoresPersonagens;
+
+
+
+Partida
+---------------------
+List<Jogador> jogadores;
+Tabuleiro tabuleiro; 
+
+
+
+Lobby //Receber do banco de dados e tratar as informações que são recebidas 
+---------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
