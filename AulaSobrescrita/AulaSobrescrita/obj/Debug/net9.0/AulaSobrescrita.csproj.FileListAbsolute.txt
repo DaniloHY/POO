@@ -1,0 +1,14 @@
+C:\Users\danilo.hyamamoto\source\repos\AulaSobrescrita\AulaSobrescrita\bin\Debug\net9.0\AulaSobrescrita.exe
+C:\Users\danilo.hyamamoto\source\repos\AulaSobrescrita\AulaSobrescrita\bin\Debug\net9.0\AulaSobrescrita.deps.json
+C:\Users\danilo.hyamamoto\source\repos\AulaSobrescrita\AulaSobrescrita\bin\Debug\net9.0\AulaSobrescrita.runtimeconfig.json
+C:\Users\danilo.hyamamoto\source\repos\AulaSobrescrita\AulaSobrescrita\bin\Debug\net9.0\AulaSobrescrita.dll
+C:\Users\danilo.hyamamoto\source\repos\AulaSobrescrita\AulaSobrescrita\bin\Debug\net9.0\AulaSobrescrita.pdb
+C:\Users\danilo.hyamamoto\source\repos\AulaSobrescrita\AulaSobrescrita\obj\Debug\net9.0\AulaSobrescrita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danilo.hyamamoto\source\repos\AulaSobrescrita\AulaSobrescrita\obj\Debug\net9.0\AulaSobrescrita.AssemblyInfoInputs.cache
+C:\Users\danilo.hyamamoto\source\repos\AulaSobrescrita\AulaSobrescrita\obj\Debug\net9.0\AulaSobrescrita.AssemblyInfo.cs
+C:\Users\danilo.hyamamoto\source\repos\AulaSobrescrita\AulaSobrescrita\obj\Debug\net9.0\AulaSobrescrita.csproj.CoreCompileInputs.cache
+C:\Users\danilo.hyamamoto\source\repos\AulaSobrescrita\AulaSobrescrita\obj\Debug\net9.0\AulaSobrescrita.dll
+C:\Users\danilo.hyamamoto\source\repos\AulaSobrescrita\AulaSobrescrita\obj\Debug\net9.0\refint\AulaSobrescrita.dll
+C:\Users\danilo.hyamamoto\source\repos\AulaSobrescrita\AulaSobrescrita\obj\Debug\net9.0\AulaSobrescrita.pdb
+C:\Users\danilo.hyamamoto\source\repos\AulaSobrescrita\AulaSobrescrita\obj\Debug\net9.0\AulaSobrescrita.genruntimeconfig.cache
+C:\Users\danilo.hyamamoto\source\repos\AulaSobrescrita\AulaSobrescrita\obj\Debug\net9.0\ref\AulaSobrescrita.dll
